@@ -1,0 +1,7 @@
+*.log
+*.exe
+*.o
+config.status
+stamp-h1
+/autom4te.cache
+

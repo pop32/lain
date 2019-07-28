@@ -1,0 +1,1 @@
+laind.o: laind.cpp
